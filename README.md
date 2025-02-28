@@ -22,7 +22,7 @@ A **Java-based console application** that automates employee email creation with
 
 ---
 
-## 📂 How to Run the Project
+
 
 ### 1️⃣ Clone the repository:
 ```bash
